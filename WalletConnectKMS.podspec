@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WalletConnectKMS'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'WalletConnectKMS.'
 
 # This description is used to generate tags and improve search results.
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.dependency 'WalletConnectUtils', '~> 1.0.1'
 
-  s.dependency 'CryptoSwift', '~> 1.6.0'
+  s.dependency 'CryptoSwift', '~> 1.0.0'
 
   s.swift_version = '5'
   
