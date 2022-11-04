@@ -17,7 +17,7 @@ WalletConnectKMS is available through [CocoaPods](https://cocoapods.org). To ins
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'WalletConnectKMS', '~> 1.0.0'
+pod 'WalletConnectKMS', '~> 1.0.1'
 ```
 
 ## Author
